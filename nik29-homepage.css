@@ -19,9 +19,8 @@ main {
 }
 
 .header-link {
-  color: white;
-  text-decoration: none;
-  font-size: 128px;
+  height: 16px;
+  width: 16px;
 }
 
 .div-link {
