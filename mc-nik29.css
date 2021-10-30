@@ -1,0 +1,48 @@
+/*
+font-family: 'Zilla Slab';
+font-family: 'Zilla Slab Highlight';
+*/
+
+body {
+  margin: 0;
+  font-family: 'Zilla Slab';
+}
+
+header {
+  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  padding: 32px;
+}
+
+p {
+  font-size: 32px;
+}
+
+main {
+  max-width: 1024px;
+  min-width: 256px;
+  margin: auto;
+}
+
+.header-link {
+  color: white;
+  text-decoration: none;
+  font-size: 128px;
+}
+
+.div-link {
+  text-align: center;
+}
+
+.main-link {
+  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  color: white;
+  text-decoration: none;
+  font-size: 32px;
+  padding: 16px;
+}
+
+.span-number {
+  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  -webkit-background-clip: text;
+  color: transparent;
+}
