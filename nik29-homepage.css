@@ -4,7 +4,7 @@ font-family: 'Roboto';
 }
 
 header {
-  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  background: linear-gradient(to right, magenta, blue, cyan);
   padding: 32px;
 }
 
@@ -28,7 +28,7 @@ main {
 }
 
 .main-link {
-  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  background: linear-gradient(to right, magenta, blue, cyan);
   color: white;
   text-decoration: none;
   font-size: 32px;
@@ -36,7 +36,7 @@ main {
 }
 
 .span-number {
-  background: linear-gradient(to right, #9400ff, #ff0039, #ff9400);
+  background: linear-gradient(to right, magenta, blue, cyan);
   -webkit-background-clip: text;
   color: transparent;
 }
