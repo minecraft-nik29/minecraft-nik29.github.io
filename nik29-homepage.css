@@ -4,8 +4,9 @@ font-family: 'Roboto';
 }
 
 header {
-  background: linear-gradient(to right, magenta, blue, cyan);
-  padding: 32px;
+  background-image: url(https://nik29-homepage.github.io/background.png);
+  padding: 64px;
+  height: 128px;
 }
 
 p {
@@ -28,7 +29,7 @@ main {
 }
 
 .main-link {
-  background: linear-gradient(to right, magenta, blue, cyan);
+  background-image: url(https://nik29-homepage.github.io/background.png);
   color: white;
   text-decoration: none;
   font-size: 32px;
@@ -36,7 +37,7 @@ main {
 }
 
 .span-number {
-  background: linear-gradient(to right, magenta, blue, cyan);
+  background-image: url(https://nik29-homepage.github.io/background.png);
   -webkit-background-clip: text;
   color: transparent;
 }
