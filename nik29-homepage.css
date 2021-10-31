@@ -1,4 +1,5 @@
-@font-face {
+@
+font-family: "Minercraftory";font-face {
   font-family: 'Minercraftory';
   src: url(https://nik29-homepage.github.io/Minercraftory.ttf);
 }
@@ -41,10 +42,12 @@ main {
   text-decoration: none;
   font-size: 32px;
   padding: 16px;
+  font-family: "Minercraftory";
 }
 
 .span-number {
   background-image: url(https://nik29-homepage.github.io/background.png);
   -webkit-background-clip: text;
   color: transparent;
+  font-family: "Minercraftory";
 }
