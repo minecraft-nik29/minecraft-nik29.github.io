@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-image: url(file:///C:/Users/admin/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/nik29-homepage/background_1.png);
+  background-image: url(https://nik29-homepage.github.io/background-1.png);
   padding: 32px;
 }
 
@@ -30,7 +30,7 @@ main {
   color: white;
   font-size: 128px;
   text-decoration: none;
-  background-image: url(file:///C:/Users/admin/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/nik29-homepage/background_2.png);
+  background-image: url(https://nik29-homepage.github.io/background-2.png);
   -webkit-background-clip: text;
   color: transparent;
 }
@@ -40,7 +40,7 @@ main {
 }
 
 .main-link {
-  background-image: url(file:///C:/Users/admin/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/nik29-homepage/background_1.png);
+  background-image: url(https://nik29-homepage.github.io/background-1.png);
   color: white;
   text-decoration: none;
   font-size: 32px;
@@ -49,13 +49,13 @@ main {
 }
 
 .span-link {
-  background-image: url(file:///C:/Users/admin/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/nik29-homepage/background_2.png);
+  background-image: url(https://nik29-homepage.github.io/background-2.png);
   -webkit-background-clip: text;
   color: transparent;
 }
 
 .span-number {
-  background-image: url(file:///C:/Users/admin/OneDrive/%E3%83%87%E3%82%B9%E3%82%AF%E3%83%88%E3%83%83%E3%83%97/nik29-homepage/background_1.png);
+  background-image: url(https://nik29-homepage.github.io/background-1.png);
   -webkit-background-clip: text;
   color: transparent;
   font-family: "Minercraftory";
