@@ -25,6 +25,10 @@ main {
   margin: auto;
 }
 
+footer {
+  margin: 64px auto auto auto;
+}
+
 .header-link {
   font-family: 'Minercraftory';
   color: white;
@@ -37,6 +41,10 @@ main {
 
 .div-link {
   text-align: center;
+}
+
+.div-margin {
+  margin: auto auto 128px auto;
 }
 
 .main-link {
