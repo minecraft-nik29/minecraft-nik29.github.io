@@ -33,7 +33,6 @@ footer {
 
 .header-link {
   font-family: "Minercraftory";
-  color: white;
   font-size: 128px;
   text-decoration: none;
   background-image: url(https://nik29-homepage.github.io/background-2.png);
@@ -51,7 +50,6 @@ footer {
 
 .main-link {
   background-image: url(https://nik29-homepage.github.io/background-1.png);
-  color: white;
   text-decoration: none;
   font-size: 32px;
   padding: 16px;
