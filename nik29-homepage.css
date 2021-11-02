@@ -1,14 +1,14 @@
 @font-face {
-  font-family: 'Minercraftory';
-  src: url('https://nik29-homepage.github.io/Minercraftory.eot?') format('eot'),
-       url('https://nik29-homepage.github.io/Minercraftory.woff') format('woff'),
-       url('https://nik29-homepage.github.io/Minercraftory.ttf')  format('truetype'),
-       url('https://nik29-homepage.github.io/Minercraftory.svg#Minercraftory') format('svg');
+  font-family: "Minercraftory";
+  src: url("https://nik29-homepage.github.io/Minercraftory.eot?") format("eot"),
+       url("https://nik29-homepage.github.io/Minercraftory.woff") format("woff"),
+       url("https://nik29-homepage.github.io/Minercraftory.ttf")  format("truetype"),
+       url("https://nik29-homepage.github.io/Minercraftory.svg#Minercraftory") format("svg");
 }
 
 body {
   margin: 0;
-  font-family: 'Roboto';
+  font-family: "Roboto";
   user-select: none;
 }
 
@@ -32,7 +32,7 @@ footer {
 }
 
 .header-link {
-  font-family: 'Minercraftory';
+  font-family: "Minercraftory";
   color: white;
   font-size: 128px;
   text-decoration: none;
