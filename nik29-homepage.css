@@ -1,9 +1,9 @@
 font-family: "Minercraftory";font-face {
   font-family: 'Minercraftory';
-  src: url('Minercraftory.eot?') format('eot'),
-       url('Minercraftory.woff') format('woff'),
-       url('Minercraftory.ttf')  format('truetype'),
-       url('Minercraftory.svg#Minercraftory') format('svg');
+  src: url('https://nik29-homepage.github.io/Minercraftory.eot?') format('eot'),
+       url('https://nik29-homepage.github.io/Minercraftory.woff') format('woff'),
+       url('https://nik29-homepage.github.io/Minercraftory.ttf')  format('truetype'),
+       url('https://nik29-homepage.github.io/Minercraftory.svg#Minercraftory') format('svg');
 }
 
 body {
