@@ -43,7 +43,7 @@ hr {
   font-size: 128px;
   text-decoration: none;
   background-image: url(https://nik29-homepage.github.io/background-2.png);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
@@ -62,6 +62,6 @@ hr {
 
 .span-link {
   background-image: url(https://nik29-homepage.github.io/background-2.png);
-  -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
