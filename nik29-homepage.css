@@ -6,9 +6,33 @@
        url("https://nik29-homepage.github.io/Minercraftory.svg#Minercraftory") format("svg");
 }
 
+@media screen and (min-device-width: 1024px) {
+	.text, hr {
+		margin: auto 128px;
+	}
+	.procedure, .terms, .policy, .pin, #list {
+		margin: 64px 128px;
+	}
+	#iframe {
+		height: calc(calc(100vw - 640px) * 0.5625);
+	}
+}
+@media screen and (max-device-width: 1024px) {
+	.text, hr {
+		margin: auto 0;
+	}
+	.procedure, .terms, .policy, .pin, #list {
+		margin: 64px 0;
+	}
+	#iframe {
+		height: calc(calc(100vw - 384px) * 0.5625);
+	}
+}
+
 body {
   margin: 0;
   font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 100;
   user-select: none;
 }
 
@@ -25,17 +49,11 @@ p {
 
 
 main {
-  max-width: 1024px;
-  min-width: 256px;
   margin: auto;
 }
 
 footer {
   margin: 64px auto auto auto;
-}
-
-hr {
-  margin: 0;
 }
 
 .header-link {
